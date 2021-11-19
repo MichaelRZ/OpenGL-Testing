@@ -14,3 +14,9 @@ The only subsection that was modified are the files associated with example 6.1.
 - An implementation of a 5-variable binary search in C++, which will eventually be put in the fragment shader and use all of the above, a special case of the [K-d Tree Search](https://en.wikipedia.org/wiki/K-d_tree#Nearest_neighbour_search)
 
 This is the original example:
+![alt text](https://raw.githubusercontent.com/MichaelRZ/OpenGL-Testing/main/Original.PNG "Original Example")
+
+And this is the modified example, alternating every second:
+![alt text](https://raw.githubusercontent.com/MichaelRZ/OpenGL-Testing/main/One.PNG "Modified Example First Frame")
+
+![alt text](https://raw.githubusercontent.com/MichaelRZ/OpenGL-Testing/main/Two.PNG "Modified Example Second Frame")
